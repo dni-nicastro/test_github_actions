@@ -1,3 +1,3 @@
-labels: ["documentation", "good first issue"]
+label: documentation, good first issue
 
 Tedst
